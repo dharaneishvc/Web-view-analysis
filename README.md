@@ -12,3 +12,6 @@ Web view analysis and Forecasting of time series data
 
 ## Web Analytics
 Web analytics is the measurement, collection, analysis, and reporting of web data to understand and optimize web usage.
+
+## References
+Introduction to Time Series Forecasting With Python: How to Prepare Data and Develop Models to Predict the Future, by Jason Brownlee
